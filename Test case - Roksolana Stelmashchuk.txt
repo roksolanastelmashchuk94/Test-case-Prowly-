@@ -1,0 +1,39 @@
+﻿A) Searching for "prowly" on google.com, filtering by content category (everything, video, news, etc.).
+
+
+Test case #1
+Title: Searching for the word "prowly" in the category books.
+
+
+Preconditions:
+1. On google.com filtering should be selected by books.
+
+
+Steps:
+1. Go to the page google.com.
+2. In the search field write the word “prowly”.
+3. Click the button “Enter”.
+4. In the results found, select the book with the name “In My Nursery”
+
+
+Expected Result: The word “prowly” should be found inside the book “In My Nursery”
+
+
+B) Searching for the word "prowly" on google.com with filtering by date.
+
+
+Test case #2
+Title: 
+Preconditions:
+1. The page google.com should be open
+2. On the header the tab “Tools” should be selected.
+3. The subtab “Any time” should be chosen
+4. The option “Custom range” should be selected.
+5. Customized date range should be selected from 9/2/23 to 9/2/23
+
+
+Steps:
+1. Go to the page google.com.
+
+
+Expected Result: The system should display the results of the search for the word prowly  which was added on 9/2/23.
